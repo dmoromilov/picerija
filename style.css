@@ -916,7 +916,6 @@ ul li.active a {
 }
 
 .subSect{
-  height: 45%;
   background-color: #f2f2f2;
 }
 
@@ -960,15 +959,16 @@ ul li.active a {
 }
 
 .caption span.border {
-  background-color: #111;
+  background-color: rgba(17,17,17,0.51);
   color: #fff;
   padding: 18px;
-  font-size: 25px;
-  letter-spacing: 10px;
+  font-family: 'Cookie', cursive;
+  font-size: 70px;
+  letter-spacing: 5px;
 }
 
 .text {
-  text-align:center;
+  text-align: center;
   padding: 50px 80px;
   text-align: justify;
 }
@@ -1003,7 +1003,7 @@ ul li.active a {
   box-sizing: border-box;
   text-align: left;
   font: bold 16px sans-serif;
-  padding: 75px 50px 0px 50px;
+  padding: 55px 50px;
 }
 
 .footer-distributed .footer-left,
@@ -1028,7 +1028,7 @@ ul li.active a {
 }
 
 .footer-distributed h2 span{
-  color:  #5383d3;
+  color:  #83c9ff;
 }
 
 /* Footer links */
@@ -1092,7 +1092,7 @@ ul li.active a {
 }
 
 .footer-distributed .footer-center p a{
-  color:  #5383d3;
+  color:  #83c9ff;
   text-decoration: none;;
 }
 
@@ -1140,17 +1140,3 @@ ul li.active a {
   margin-bottom: 5px;
 }
 
-/* Larger than mobile */
-@media (min-width: 400px) {}
-
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
-
-/* Larger than tablet */
-@media (min-width: 750px) {}
-
-/* Larger than desktop */
-@media (min-width: 1000px) {}
-
-/* Larger than Desktop HD */
-@media (min-width: 1200px) {}
