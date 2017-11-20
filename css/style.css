@@ -29,12 +29,10 @@ h1 {
 }
 
 h3{
-  text-align: center;
   padding:20px 80px;
   text-align: justify;
   letter-spacing: 5px;
   text-transform: uppercase;
-  font: 20px;
   color: #83c9ff;
 }
 
@@ -142,7 +140,6 @@ ul li.active a {
 }
 
 .text {
-  text-align: center;
   padding: 50px 80px;
   text-align: justify;
 }
@@ -184,17 +181,17 @@ ul li.active a {
 }
 
 .footer-distributed h2{
-  color:  #ffffff;
+  color: #ffffff;
   font: normal 36px 'Cookie', cursive;
   margin: 0;
 }
 
 .footer-distributed h2 span{
-  color:  #83c9ff;
+  color: #83c9ff;
 }
 
 .footer-distributed .footer-links{
-  color:  #ffffff;
+  color: #ffffff;
   margin: 20px 0 12px;
   padding: 0;
 }
@@ -211,7 +208,7 @@ ul li.active a {
 }
 
 .footer-distributed .footer-company-name{
-  color:  #8f9296;
+  color: #8f9296;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
@@ -222,7 +219,7 @@ ul li.active a {
 }
 
 .footer-distributed .footer-center i{
-  background-color:  #33383b;
+  background-color: #33383b;
   color: #ffffff;
   font-size: 25px;
   width: 38px;
@@ -254,7 +251,7 @@ ul li.active a {
 }
 
 .footer-distributed .footer-center p a{
-  color:  #83c9ff;
+  color: #83c9ff;
   text-decoration: none;;
 }
 
@@ -264,7 +261,7 @@ ul li.active a {
 
 .footer-distributed .footer-company-about{
   line-height: 20px;
-  color:  #92999f;
+  color: #92999f;
   font-size: 13px;
   font-weight: normal;
   margin: 0;
@@ -272,7 +269,7 @@ ul li.active a {
 
 .footer-distributed .footer-company-about span{
   display: block;
-  color:  #ffffff;
+  color: #ffffff;
   font-size: 14px;
   font-weight: bold;
   margin-bottom: 20px;
@@ -287,7 +284,7 @@ ul li.active a {
   width: 35px;
   height: 35px;
   cursor: pointer;
-  background-color:  #33383b;
+  background-color: #33383b;
   border-radius: 2px;
 
   font-size: 20px;
